@@ -25,7 +25,7 @@
 - 💬 **Intereses:** Busco aplicar mis habilidades en proyectos reales de análisis de datos, contribuyendo al éxito de equipos multidisciplinarios y desarrollando una carrera como analista de datos.
 
 ## 🛠️ Tecnologías y Herramientas
-- **Lenguajes de Programación:** SQL, Python, Java
+- **Lenguajes de Programación:** Python, Java
 - **Herramientas de Análisis de Datos:** Microsoft Excel, Power BI
 - **Desarrollo Web:** HTML, CSS, JavaScript
 - **Bases de Datos:** SQL Server
