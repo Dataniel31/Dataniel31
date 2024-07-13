@@ -29,7 +29,7 @@
 - **Herramientas de Análisis de Datos:** Microsoft Excel, Power BI
 - **Desarrollo Web:** HTML, CSS, JavaScript
 - **Bases de Datos:** SQL Server
-- 
+  
 ## 📈 Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Dataniel31&show_icons=true&theme=radical)
 
