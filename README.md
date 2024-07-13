@@ -25,17 +25,7 @@
 - **Herramientas de Análisis de Datos:** Microsoft Excel, Power BI
 - **Desarrollo Web:** HTML, CSS, JavaScript
 - **Bases de Datos:** SQL Server
-
-## 📂 Proyectos Destacados
-### 1. Sistema de Gestión de Corredores (SGC)
-Un sistema integral para la gestión de corredores, que incluye módulos para la gestión de sucursales, inventario, ventas e integración de datos. El proyecto está diseñado con una arquitectura robusta que incluye múltiples capas y servicios.
-
-### 2. Chatbot para Librería Martha
-Implementación de un chatbot utilizando Flask y JSON en un entorno de Jupyter Notebook, para una librería que vende productos de oficina, escolares y tecnológicos. El chatbot permite a los usuarios consultar información sobre productos y ubicación de la tienda.
-
-### 3. Consulta de Datos en la Base de Datos Northwind
-Resolución de diversas preguntas sobre SQL utilizando la base de datos Northwind, demostrando habilidades en consultas avanzadas y manejo de datos.
-
+- 
 ## 📈 Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
 
