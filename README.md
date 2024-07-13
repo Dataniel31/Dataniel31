@@ -1,5 +1,8 @@
 # Bienvenido a mi Perfil de GitHub 👋
 
+<img src="[URL_DE_TU_IMAGEN](https://media.licdn.com/dms/image/D4E16AQGhK58pwcK-sw/profile-displaybackgroundimage-shrink_350_1400/0/1715481857948?e=1726099200&v=beta&t=eyVLTl-NhKn7WHmB6reD4HPDqV0wYFT9uYw6rKeyEXU)" alt="Portada de LinkedIn" width="1000" height="300">
+
+
 ¡Hola! Soy **Daniel Alex Suclle Luque**, aspirante a analista de datos y estudiante del séptimo ciclo de Ingeniería de Sistemas e Informática en la Universidad Tecnológica del Perú. Tengo habilidades en SQL, Python, Excel y Power BI, y soy apasionado por resolver problemas complejos y generar insights significativos a través del análisis de datos.
 
 ## 🌟 Acerca de Mí
