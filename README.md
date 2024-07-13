@@ -10,6 +10,7 @@
 - 🎓 **Educación:**
   - **Ingeniería de Sistemas e Informática** - Universidad Tecnológica del Perú (Mar 2021 – En curso)
   - **Inglés** - Instituto Cultural Peruano Norteamericano (Feb 2023 – En curso)
+  - **Inteligencia Artificial** - Samsung Innovation Campus (Jun 2024 - En Curso)
 
 - 📚 **Formación Complementaria:**
   - **Excel Intermedio** y **Asesor en Excel Intermedio** - Universidad Tecnológica del Perú
