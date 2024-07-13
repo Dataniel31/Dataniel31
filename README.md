@@ -6,9 +6,6 @@
 
 ¡Hola! Soy **Daniel Alex Suclle Luque**, aspirante a analista de datos y estudiante del séptimo ciclo de Ingeniería de Sistemas e Informática en la Universidad Tecnológica del Perú. Tengo habilidades en SQL, Python, Excel y Power BI, y soy apasionado por resolver problemas complejos y generar insights significativos a través del análisis de datos.
 
-
-¡Hola! Soy **Daniel Alex Suclle Luque**, aspirante a analista de datos y estudiante del séptimo ciclo de Ingeniería de Sistemas e Informática en la Universidad Tecnológica del Perú. Tengo habilidades en SQL, Python, Excel y Power BI, y soy apasionado por resolver problemas complejos y generar insights significativos a través del análisis de datos.
-
 ## 🌟 Acerca de Mí
 - 🎓 **Educación:**
   - **Ingeniería de Sistemas e Informática** - Universidad Tecnológica del Perú (Mar 2021 – En curso)
