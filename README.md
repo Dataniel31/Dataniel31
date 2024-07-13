@@ -27,7 +27,7 @@
 - **Bases de Datos:** SQL Server
 - 
 ## 📈 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Dataniel31&show_icons=true&theme=radical)
 
 ## 🌐 Conéctate Conmigo
 - [LinkedIn](https://www.linkedin.com/in/alexsuclle/)
