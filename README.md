@@ -1,6 +1,5 @@
-
 <div align="center">
-  # Bienvenido a mi Perfil de GitHub 👋
+  <h1 align="Center">Bienvenido a mi Perfil de GitHub 👋 </h1>
 </div>
 <img src="https://ibb.co/PGjjTCj">
 
