@@ -1,6 +1,6 @@
 # 👨‍💻 Daniel Alex Suclle Luque - Data Scientist
 
-![Profile Banner](https://via.placeholder.com/1000x200.png?text=Data+Scientist+|+Machine+Learning+|+Data+Analytics)
+![Profile Banner](https://i.ibb.co/h9843FW/banner-linkedin.png)
 
 ## 📊 About Me
 
