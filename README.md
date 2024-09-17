@@ -1,14 +1,12 @@
-# 👨‍💻 Alex - Data Scientist
+# 👨‍💻 Daniel Alex Suclle Luque - Data Scientist
 
-![Profile Banner](https://via.placeholder.com/1000x200.png?text=Data+Scientist+|+Machine+Learning+|+AI)
+![Profile Banner](https://via.placeholder.com/1000x200.png?text=Data+Scientist+|+Machine+Learning+|+Data+Analytics)
 
 ## 📊 About Me
 
-Hi there! I'm **Alex**, a passionate Data Scientist with expertise in **Machine Learning**, **Artificial Intelligence**, and **Big Data**. I love turning complex datasets into actionable insights and solving real-world problems through data. My goal is to make data science accessible and impactful for all types of industries.
+Hola! Soy **Daniel Alex Suclle**, estudiante de Ingeniería de Sistemas e Informática en la Universidad Tecnológica del Perú, con habilidades en **Python**, **SQL**, **Power BI** y **Excel** para el análisis de datos. Tengo experiencia en la creación de **modelos predictivos** y **dashboards interactivos** para resolver problemas del mundo real. 
 
-- 🔭 Currently working on projects related to predictive modeling and data visualization.
-- 🌱 Expanding my knowledge in **Deep Learning** and **Cloud Computing**.
-- 🎯 My objective is to contribute to open-source projects that make a difference.
+Mi pasión es transformar datos complejos en **insights valiosos** y tomar decisiones basadas en datos. Busco continuamente aplicar mis habilidades en proyectos innovadores mientras sigo aprendiendo y desarrollándome en este campo tan dinámico.
 
 ---
 
@@ -17,58 +15,78 @@ Hi there! I'm **Alex**, a passionate Data Scientist with expertise in **Machine 
 **Languages & Tools:**
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)
 
 **Specialties:**
 
-- 📈 Data Analysis and Visualization
-- 🤖 Machine Learning and AI
+- 📊 Data Analysis and Visualization
+- 🤖 Machine Learning and Predictive Models
 - 🛠 Data Engineering and ETL
-- 🌐 Cloud Deployment (AWS, Azure)
-- 🧬 Deep Learning and NLP
+- 📈 Business Intelligence (Power BI, DAX, Power Query)
+- 🌐 Cloud-based Data Solutions
 
 ---
 
 ## 📈 Featured Projects
 
-### 🏡 [House Price Prediction](https://github.com/alex/house-price-prediction)
+### 🎬 [Movie and TV Show Analysis - IMDB](https://github.com/Dataniel31/Proyecto1-AnalisisDe-Pel-culasySeries-de-TVenIMDB)
 
-- A machine learning model that predicts house prices based on features like location, size, and age.
-- Tools: **Python**, **Scikit-learn**, **Pandas**, **NumPy**
+- **Descripción**: Análisis de datos de películas y series en IMDB para identificar patrones y tendencias populares.
+- **Herramientas**: Python, Pandas, NumPy, Matplotlib
+- **Logros**:
+  - Identificación de patrones en géneros combinados de **drama y comedia** con calificaciones superiores a 7.
+  - Detección de incremento en visualizaciones de series lanzadas en otoño (+25%).
+  - Creación de un modelo predictivo con una precisión del 82% para predecir el éxito de nuevas películas.
 
-### 📊 [Sales Dashboard with Power BI](https://github.com/alex/sales-dashboard)
+### 📉 [Customer Churn Prediction - Telecom](https://github.com/Dataniel31/telco-customer-churn-prediction)
 
-- Interactive dashboard that visualizes sales, revenue, and profit across different regions and time periods.
-- Tools: **Power BI**, **DAX**, **SQL**
+- **Descripción**: Predicción de deserción de clientes utilizando un modelo de regresión logística.
+- **Herramientas**: Python, Pandas, Scikit-learn, SMOTE
+- **Logros**:
+  - Análisis de clientes con menor interacción que tenían un 30% más de probabilidades de desertar.
+  - Modelo con una precisión del 62% y un recall del 72%, permitiendo identificar clientes en riesgo.
 
-### 🤖 [AI Chatbot for Customer Support](https://github.com/alex/ai-chatbot)
+### 💳 [Credit Card Default Prediction](https://github.com/Dataniel31/customer-default-prediction)
 
-- An AI-driven chatbot capable of handling basic customer queries and providing product recommendations.
-- Tools: **Python**, **TensorFlow**, **NLP**
+- **Descripción**: Predicción de incumplimiento de pago en tarjetas de crédito utilizando machine learning.
+- **Herramientas**: Python, Scikit-learn, Pandas
+- **Logros**:
+  - Identificación de clientes con historial de pagos inconsistentes con un 25% más de probabilidad de incumplir.
+  - Modelo de regresión logística con una precisión del 85% en la predicción de incumplimiento de pagos.
 
----
+### 📊 [Revenue, Costs and Profit Dashboard - Power BI](https://github.com/Dataniel31/dasboard-powerbi)
 
-## 📫 Contact Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alex)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alex)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/alex)
+- **Descripción**: Desarrollo de un dashboard interactivo para el análisis de ingresos, costos y utilidades.
+- **Herramientas**: Power BI (DAX, Power Query)
+- **Logros**:
+  - Análisis cuantitativo: ingresos (115 mil), costos (51 mil) y utilidades (40 mil).
+  - Identificación de un incremento del 21.61% en ingresos en relación al objetivo.
+  - Visualización de tendencias y comparación de rendimiento de 15 productos clave.
 
 ---
 
 ## 🏆 Certifications
 
-- **Data Science Professional Certificate** - [Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
-- **Business Intelligence Foundation** - [CertiProf](https://certiprof.com)
+- **Business Intelligence Foundation Professional Certification** - Certiprof
+- **Scrum Foundation Professional Certificate** - Certiprof
+- **Python TOTAL para Data Science & Machine Learning en 18 Días** - Udemy
+- **Máster en SQL Server: Desde Cero a Nivel Profesional** - Udemy
+
+---
+
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsuclle/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dataniel31)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexdspe02@gmail.com)
 
 ---
 
 ## 🚀 Let's Collaborate!
 
-I’m always open to discuss interesting projects, especially in the fields of **AI**, **Machine Learning**, and **Data Engineering**. Let’s create something impactful!
+Si te interesa colaborar en proyectos de **machine learning**, **análisis de datos** o **business intelligence**, no dudes en contactarme. ¡Estoy abierto a nuevas oportunidades y colaboraciones emocionantes!
 
-![Contact Me](https://via.placeholder.com/300x100.png?text=Let's+Connect)
+![Contact Banner](https://via.placeholder.com/500x100.png?text=Let's+Connect)
