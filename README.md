@@ -89,4 +89,3 @@ Mi pasión es transformar datos complejos en **insights valiosos** y tomar decis
 
 Si te interesa colaborar en proyectos de **machine learning**, **análisis de datos** o **business intelligence**, no dudes en contactarme. ¡Estoy abierto a nuevas oportunidades y colaboraciones emocionantes!
 
-![Contact Banner](https://via.placeholder.com/500x100.png?text=Let's+Connect)
