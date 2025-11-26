@@ -1,120 +1,74 @@
-<!-- Banner Principal -->
+# <!-- Banner Principal -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=003366&height=200&section=header&text=Daniel%20Suclle%20Luque&fontSize=50&fontColor=ffffff&desc=Data%20Scientist%20%7C%20Risk%20Analytics&descAlign=50&descAlignY=60" width="100%"/>
+</p>
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D003366%26height%3D200%26section%3Dheader%26text%3DDaniel%2520Suclle%2520Luque%26fontSize%3D50%26fontColor%3Dffffff%26desc%3DData%2520Scientist%2520%257C%2520Risk%2520Analytics%26descAlign%3D50%26descAlignY%3D60" width="100%"/>
-</div>
+# 👋 Sobre Mí
 
-👋 Sobre Mí
+¡Hola! Soy **Daniel Suclle**, estudiante de 10mo ciclo de Ingeniería de Sistemas e Informática (Quinto Superior) en la UTP.
 
-¡Hola! Soy Daniel Suclle, estudiante de 10mo ciclo de Ingeniería de Sistemas e Informática (Quinto Superior) en la UTP.
+Me especializo en **Data Science** y **Risk Analytics**, con enfoque en el sector financiero. Combino ingeniería de datos (automatización de ETLs con Python/SQL) y modelado predictivo (PD, LGD, Churn).
 
-Me especializo en Data Science y Risk Analytics, con un fuerte enfoque en el sector financiero. Mi experiencia combina la ingeniería de datos (automatización de ETLs con Python/SQL) con el modelado predictivo (Cálculo de PD, LGD, Churn).
+### 🔭 Actualmente
 
-🔭 Actualmente:
+- 🏦 Practicante de **Riesgo Financiero** en Mitsui Auto Finance.  
+- 🤖 Automatizando reportes regulatorios (SBS) y construyendo modelos de score crediticio.  
+- 🌱 Aprendiendo más sobre **MLOps** y **Deep Learning**.  
 
-🏦 Practicante de Riesgo Financiero en Mitsui Auto Finance.
+---
 
-🤖 Automatizando reportes regulatorios (SBS) y construyendo modelos de score crediticio.
+# 🛠️ Tech Stack
 
-🌱 Aprendiendo profundamente sobre MLOps y Deep Learning.
+## 🧩 Lenguajes & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-🛠️ Tech Stack
+## 🤖 Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-<div align="center">
+## 📊 Visualización & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel_Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black)
 
-Lenguajes & Core
+## ☁️ Herramientas & Cloud
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+---
 
+# 📊 GitHub Stats
 
+![Stats](https://github-readme-stats.vercel.app/api?username=Dataniel31&show_icons=true&theme=prussian&hide_border=true&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dataniel31&layout=compact&theme=prussian&hide_border=true&langs_count=6)
 
+---
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
-<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-007396%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" />
+# 🚀 Proyectos Destacados
 
-Data Science & Machine Learning
+| Proyecto | Tecnologías | Descripción & Impacto |
+|---------|-------------|------------------------|
+| **Credit Card Default Prediction** | 🐍 🤖 | Modelo de regresión logística para predecir impagos. Precisión del **85%**, identificando clientes con 25% mayor probabilidad de default. |
+| **Telco Customer Churn** | 🐍 📉 | Modelo predictivo para identificar fuga de clientes. Recall del **72%**, útil para estrategias de retención. |
+| **IMDB Movie Analysis** | 🐍 📊 | EDA de tendencias en cine y TV. Hallazgos estacionales (+25% en otoño) y combinaciones de géneros exitosas. |
+| **Financial Dashboard (Power BI)** | 📊 💼 | Dashboard para análisis de P&L. Visualización de ingresos, costos y utilidad. |
 
+---
 
+# 🏆 Certificaciones
 
+- 🥇 IA & Deep Learning — **UNI (2025)**
+- 🥈 Associate Data Scientist in Python — **DataCamp**
+- 🥉 Business Intelligence Foundation — **Certiprof**
+- 🥉 SQL Server de Cero a Profesional — **Udemy**
 
+---
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Scikit_Learn-F7931E%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite" />
+# 📫 Conectemos
 
-Visualización & BI
+(Agrega aquí tus enlaces a LinkedIn, portafolio, etc.)
 
-
-
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Power_BI-F2C811%3Fstyle%3Dfor-the-badge%26logo%3Dpower-bi%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Excel_Advanced-217346%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-excel%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Matplotlib-ffffff%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dblack" />
-
-Herramientas & Cloud
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/VS_Code-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dvisual-studio-code%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Jupyter-F37626%3Fstyle%3Dfor-the-badge%26logo%3Djupyter%26logoColor%3Dwhite" />
-
-</div>
-
-📊 GitHub Stats
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DDataniel31%26show_icons%3Dtrue%26theme%3Dprussian%26hide_border%3Dtrue%26count_private%3Dtrue" height="180px"/>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DDataniel31%26layout%3Dcompact%26theme%3Dprussian%26hide_border%3Dtrue%26langs_count%3D6" height="180px"/>
-</div>
-
-🚀 Proyectos Destacados
-
-Proyecto
-
-Tecnologías
-
-Descripción & Impacto
-
-Credit Card Default Prediction
-
-🐍 🤖
-
-Risk Analytics: Modelo de regresión logística para predecir impagos. Logré una precisión del 85%, identificando clientes con un 25% más de probabilidad de default basándome en su historial de pagos.
-
-Telco Customer Churn
-
-🐍 📉
-
-Retención: Modelo predictivo para identificar clientes en riesgo de fuga. Se alcanzó un Recall del 72%, permitiendo priorizar estrategias de retención en clientes de baja interacción.
-
-IMDB Movie Analysis
-
-🐍 📊
-
-Exploratory Data Analysis (EDA): Análisis de tendencias en cine y TV. Descubrí patrones estacionales (lanzamientos en otoño +25% views) y combinaciones de género exitosas (Drama + Comedia).
-
-Financial Dashboard
-
-📊 💼
-
-Business Intelligence: Dashboard interactivo en Power BI para análisis de P&L (Ingresos, Costos, Utilidad). Permite visualizar tendencias de rendimiento de productos clave.
-
-🏆 Certificaciones
-
-🥇 Programa de Especialización en IA & Deep Learning - UNI (2025)
-
-🥈 Associate Data Scientist in Python - DataCamp
-
-🥉 Business Intelligence Foundation - Certiprof
-
-🥉 SQL Server: De Cero a Profesional - Udemy
-
-📫 Conectemos
-
-<div align="center">
-
-</div>
