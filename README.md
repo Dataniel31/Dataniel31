@@ -1,91 +1,120 @@
-# 👨‍💻 Daniel Alex Suclle Luque - Data Scientist
+<!-- Banner Principal -->
 
-![Profile Banner](https://i.ibb.co/h9843FW/banner-linkedin.png)
+<div align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D003366%26height%3D200%26section%3Dheader%26text%3DDaniel%2520Suclle%2520Luque%26fontSize%3D50%26fontColor%3Dffffff%26desc%3DData%2520Scientist%2520%257C%2520Risk%2520Analytics%26descAlign%3D50%26descAlignY%3D60" width="100%"/>
+</div>
 
-## 📊 About Me
+👋 Sobre Mí
 
-Hola! Soy **Daniel Alex Suclle**, estudiante de Ingeniería de Sistemas e Informática en la Universidad Tecnológica del Perú, con habilidades en **Python**, **SQL**, **Power BI** y **Excel** para el análisis de datos. Tengo experiencia en la creación de **modelos predictivos** y **dashboards interactivos** para resolver problemas del mundo real. 
+¡Hola! Soy Daniel Suclle, estudiante de 10mo ciclo de Ingeniería de Sistemas e Informática (Quinto Superior) en la UTP.
 
-Mi pasión es transformar datos complejos en **insights valiosos** y tomar decisiones basadas en datos. Busco continuamente aplicar mis habilidades en proyectos innovadores mientras sigo aprendiendo y desarrollándome en este campo tan dinámico.
+Me especializo en Data Science y Risk Analytics, con un fuerte enfoque en el sector financiero. Mi experiencia combina la ingeniería de datos (automatización de ETLs con Python/SQL) con el modelado predictivo (Cálculo de PD, LGD, Churn).
 
----
+🔭 Actualmente:
 
-## 🧠 Skills
+🏦 Practicante de Riesgo Financiero en Mitsui Auto Finance.
 
-**Languages & Tools:**
+🤖 Automatizando reportes regulatorios (SBS) y construyendo modelos de score crediticio.
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)
+🌱 Aprendiendo profundamente sobre MLOps y Deep Learning.
 
-**Specialties:**
+🛠️ Tech Stack
 
-- 📊 Data Analysis and Visualization
-- 🤖 Machine Learning and Predictive Models
-- 🛠 Data Engineering and ETL
-- 📈 Business Intelligence (Power BI, DAX, Power Query)
-- 🌐 Cloud-based Data Solutions
+<div align="center">
 
----
+Lenguajes & Core
 
-## 📈 Featured Projects
 
-### 🎬 [Movie and TV Show Analysis - IMDB](https://github.com/Dataniel31/Proyecto1-AnalisisDe-Pel-culasySeries-de-TVenIMDB)
 
-- **Descripción**: Análisis de datos de películas y series en IMDB para identificar patrones y tendencias populares.
-- **Herramientas**: Python, Pandas, NumPy, Matplotlib
-- **Logros**:
-  - Identificación de patrones en géneros combinados de **drama y comedia** con calificaciones superiores a 7.
-  - Detección de incremento en visualizaciones de series lanzadas en otoño (+25%).
-  - Creación de un modelo predictivo con una precisión del 82% para predecir el éxito de nuevas películas.
 
-### 📉 [Customer Churn Prediction - Telecom](https://github.com/Dataniel31/telco-customer-churn-prediction)
 
-- **Descripción**: Predicción de deserción de clientes utilizando un modelo de regresión logística.
-- **Herramientas**: Python, Pandas, Scikit-learn, SMOTE
-- **Logros**:
-  - Análisis de clientes con menor interacción que tenían un 30% más de probabilidades de desertar.
-  - Modelo con una precisión del 62% y un recall del 72%, permitiendo identificar clientes en riesgo.
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Java-007396%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite" />
 
-### 💳 [Credit Card Default Prediction](https://github.com/Dataniel31/customer-default-prediction)
+Data Science & Machine Learning
 
-- **Descripción**: Predicción de incumplimiento de pago en tarjetas de crédito utilizando machine learning.
-- **Herramientas**: Python, Scikit-learn, Pandas
-- **Logros**:
-  - Identificación de clientes con historial de pagos inconsistentes con un 25% más de probabilidad de incumplir.
-  - Modelo de regresión logística con una precisión del 85% en la predicción de incumplimiento de pagos.
 
-### 📊 [Revenue, Costs and Profit Dashboard - Power BI](https://github.com/Dataniel31/dasboard-powerbi)
 
-- **Descripción**: Desarrollo de un dashboard interactivo para el análisis de ingresos, costos y utilidades.
-- **Herramientas**: Power BI (DAX, Power Query)
-- **Logros**:
-  - Análisis cuantitativo: ingresos (115 mil), costos (51 mil) y utilidades (40 mil).
-  - Identificación de un incremento del 21.61% en ingresos en relación al objetivo.
-  - Visualización de tendencias y comparación de rendimiento de 15 productos clave.
 
----
 
-## 🏆 Certifications
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/NumPy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Scikit_Learn-F7931E%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite" />
 
-- **Business Intelligence Foundation Professional Certification** - Certiprof
-- **Scrum Foundation Professional Certificate** - Certiprof
-- **Python TOTAL para Data Science & Machine Learning en 18 Días** - Udemy
-- **Máster en SQL Server: Desde Cero a Nivel Profesional** - Udemy
+Visualización & BI
 
----
 
-## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexsuclle/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dataniel31)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexdspe02@gmail.com)
 
----
 
-## 🚀 Let's Collaborate!
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Power_BI-F2C811%3Fstyle%3Dfor-the-badge%26logo%3Dpower-bi%26logoColor%3Dblack" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Excel_Advanced-217346%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-excel%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Matplotlib-ffffff%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dblack" />
 
-Si te interesa colaborar en proyectos de **machine learning**, **análisis de datos** o **business intelligence**, no dudes en contactarme. ¡Estoy abierto a nuevas oportunidades y colaboraciones emocionantes!
+Herramientas & Cloud
 
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/VS_Code-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dvisual-studio-code%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Jupyter-F37626%3Fstyle%3Dfor-the-badge%26logo%3Djupyter%26logoColor%3Dwhite" />
+
+</div>
+
+📊 GitHub Stats
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DDataniel31%26show_icons%3Dtrue%26theme%3Dprussian%26hide_border%3Dtrue%26count_private%3Dtrue" height="180px"/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DDataniel31%26layout%3Dcompact%26theme%3Dprussian%26hide_border%3Dtrue%26langs_count%3D6" height="180px"/>
+</div>
+
+🚀 Proyectos Destacados
+
+Proyecto
+
+Tecnologías
+
+Descripción & Impacto
+
+Credit Card Default Prediction
+
+🐍 🤖
+
+Risk Analytics: Modelo de regresión logística para predecir impagos. Logré una precisión del 85%, identificando clientes con un 25% más de probabilidad de default basándome en su historial de pagos.
+
+Telco Customer Churn
+
+🐍 📉
+
+Retención: Modelo predictivo para identificar clientes en riesgo de fuga. Se alcanzó un Recall del 72%, permitiendo priorizar estrategias de retención en clientes de baja interacción.
+
+IMDB Movie Analysis
+
+🐍 📊
+
+Exploratory Data Analysis (EDA): Análisis de tendencias en cine y TV. Descubrí patrones estacionales (lanzamientos en otoño +25% views) y combinaciones de género exitosas (Drama + Comedia).
+
+Financial Dashboard
+
+📊 💼
+
+Business Intelligence: Dashboard interactivo en Power BI para análisis de P&L (Ingresos, Costos, Utilidad). Permite visualizar tendencias de rendimiento de productos clave.
+
+🏆 Certificaciones
+
+🥇 Programa de Especialización en IA & Deep Learning - UNI (2025)
+
+🥈 Associate Data Scientist in Python - DataCamp
+
+🥉 Business Intelligence Foundation - Certiprof
+
+🥉 SQL Server: De Cero a Profesional - Udemy
+
+📫 Conectemos
+
+<div align="center">
+
+</div>
